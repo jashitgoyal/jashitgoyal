@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jashit Goyal</h1>
 <h3 align="center">A_Passionate_Developer_Always_Interested_In_New_Tech.</h3>
-<img align = "right" alt="coding" src="https://media4.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif?cid=ecf05e47v2ges24shzqb8m72y2ew4yh9l75afcepvpmsf37p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align = "right" alt="coding" src="<iframe src="https://giphy.com/embed/n1dFDLwXu4Qkwy7OJ0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zero21surf-www-gppark-greenplacepark-n1dFDLwXu4Qkwy7OJ0">via GIPHY</a></p>">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashitgoyal&label=Profile%20views&color=0e75b6&style=flat" alt="jashitgoyal" /> </p>
 
 <h3 align="left">Connect with me:</h3>
